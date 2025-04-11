@@ -1,5 +1,5 @@
 Lokotito IP-Teles
-# Versão Actual: 1.250410
+# Version Actual: 1.250410
 Instrucciones:
 
 
@@ -7,7 +7,7 @@ Instrucciones:
   <ul>
     <li>Kodi</li>
     <li>Click en"</li>
-    <li>URL: <a href="misIP-teles.m3u8">repository.dregs-2.36.zip</a>.</li>
+    <li>URL: <a href="misIP-teles.m3u8">TV-LIST</a>.</li>
     
                                        !!Ahora puedes ver TV en linea!!
   </ul>
