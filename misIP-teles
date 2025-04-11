@@ -1,8 +1,27 @@
 #EXTM3U @Lokotito https://github.com/Lokotito/misIP-teles/edit/main/misIP-teles
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",	America TV ES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",America TV ES
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia" tvg-name="ATB La Paz",ATB La Paz ES
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia" tvg-name="ATB Santa Cruz",Santa Cruz ES
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="Bolivision",Bolivision ES
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Bolivia" tvg-name="Cadena A",Cadena A ES
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Bolivia" tvg-name="Cinerama Television",Cinerama Television ES
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia" tvg-name="F10 HD",F10 HD ES
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+
