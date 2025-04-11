@@ -1,5 +1,8 @@
-#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTM3U @Lokotito https://github.com/Lokotito/misIP-teles/edit/main/misIP-teles
+#EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-logo="" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",	America TV ES
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
