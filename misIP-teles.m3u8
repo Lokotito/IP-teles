@@ -1,8 +1,10 @@
 #EXTM3U @Lokotito https://github.com/Lokotito/IP-teles
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
+# Argentina
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",America TV ES
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+# Bolivia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia" tvg-name="ATB La Paz",ATB La Paz ES
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia" tvg-name="ATB Santa Cruz",Santa Cruz ES
@@ -16,11 +18,18 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia" tvg-name="F10 HD",F10 HD ES
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAQXCak.png" group-title="Bolivia" tvg-name="Megavision",Megavision ES
-https://sae11.playlist.ttvnw.net/v1/playlist/CpkGzFYZ6BliDDurWOOhLWOJ8IXJ6HdO8B4aTLQYgwEZSWgx8_qmi1qtffnmu3oefJQ1Zs9XNbEcZgZ_pGwzVIDVkQ8YVAvRPrm86yWjIFFhH4sUMXYrkMcuafszcsqHpJGNF-qvRZIx7WdSiSuBwxBLNk4pEwqxKiw-wHhS3mINLfEGE_rXiYpqZ5KI7xLq8HMw5VP-flfGjKHEuaZh6OjwxhCh9DGllB760gcpsLREsAysYrxrs5inJ7QlSPA9FwCvx-HOCoWwk6Mdrxtp8hiD5zDhc1KvsuoHesK8Q62K8VjNKch5VI_oVgBk9YOUPd1pXSfI2tjaz9hCicYh-Jw7MQFe4hP2SMjWSPivJwamdrgs5ayXMmrkITkd5Xee6bpRldjsmD9t4X4L4aUNgc0LcOYpmLc-9oaSt6QzYDZZA2EDi5raH0us5b1YTTW5S5QDyZtjbjBmODd4GiQnIbxVREvDM9VKdc0N1yumpy3BCb8uohhEG2-GE1FhZPm-zE-zZ33KnP7CwLfc_-fDm8uSiarmGCzFK2e_0mvaDr_q4pMF2tW-nDj3gt8Rsl4RJhCvB_ZLXaQRFf90zHKCRgqP5YpEZXD5aeDakQhj9Xfs6LVDK8g_nwz9npd-HNDcAhg-010Msj_AF4sL-WfOybx0g4kfJKVqxKqgYKYBzRldDptrpp_7P93sXCJVIXm89yL3ZlBLLomEtXHyhlW_a8rNdQ76PXOjLRo4eaTJ9e4E_ORtAE_pPnFIzpviw3yeULgB8g_o-36eJ_ISr5KiuXEM6LYDUeUkcFl9d3xqyL1sNCy4l81slInHIAiltjCa4AiRHYfr9RWkaiB5pzjnNKg2D6OeLsBVqSpyxpLJCDHbgE5-Rl_B2G72fD-7rFBtx707aE3hsORXjZl76fkJ9FjRRRrSVd0GMk_9M5BW16Un8iAMVk__DaaTa_BosXda2t0VpScHA5EeVbd93fPzG4LDW-YQjND57t3a99MtWCJ4elMprKYoA_Ef5P8EwEBGynz5PqRVxr4hXcI63KvPT7qS9OAv1FElQNODkBoMM5lOJjO0bwQZF_YfIAEqCXVzLWVhc3QtMjCADA.m3u8
+https://sae11.playlist.ttvnw.net/v1/playlist/CpoGpFe1t27PUq9QByQXsGvh5EOszfGi_AwCswHqnbyXZfqfWKEhvqmV7hl6tjFKYC1o2wcyLKAcpHzBWwQ6RzsfAqcx1hk2FBZ1oIAqfCAcAT8pst-mXZ8wMDUrIUYslvGhA5EwKCuyxig_e44V-H1q33W5UOut11A0IGbUUiRMZ2ulHwkZu8yOMXsaUzPAw0moHBgOSGeMZbmOlC_xPicnnwndbIm163oy4bLr2vAUMoEIDdT0RfxMcFciFG2LggzQo_FnDMrVIwN-Zmi0tAb5wG8kyj4HObvN7gnvt3iYuZdsHbMgtC5DJDU2bKtzjHAr-n39LxQLTNzaGTv-1tP6FsyW_PjaF7H8TVd1qCc5ZrfA_hc5fGWRGvqLf_VFrXaIKPNJj6U5wvqrQ48MnE32zr52ZcIaUXQLrdiU-yVFl7oaJRgIhUnfFeYj6fMSR9zw4dcM1o9nqYG48FzJof6Ca9xUv-m4y40ZWJ5ZHCRx7WkVkq-cia5M74pTDEAfuLO3bl8G4Ew5Xq4V_cBiWzzQlf5pT2ChuVCrDZSgpc4CRatA5nFZ8_VVD8m8Mpy13PlH24DqVMeWg1DK2IleZv-KjLwbdsOJO5XjCPZouoTziH4t2s28ISuucz6ZB0DdC0uXis4bylqPmxD7x_LlatE53p6u5vfynjNSXgTpb8wF_sSN9E11Yd4_Acb1nRVa4ES9G_KfhQ3RFZI2yyLeQRAcVVacxLhtMxHUNh6M8fgOHHwzGKdkDcifTx4DUjwpWExuhhljR_i2rTHFO-7q2joEjK5Q5EOY8BcEpnQDBGXUeoI797wBfLYlhSFASNINF8Q_q8ROxJcNRTyf9FdochfdPNgZU_AIZJSGb4u_yJvHtCSMExqipVYHyd_3DxJtILnXRZJI8njpyWTvdKHQCOnlxPHEO1S2gOG52Oyo_o38Sc3s9MztsBnwOBkfYxy78f091Jtb1QF-_fGs5fbXCdDQdhEcBhLx1OMb7P7YSMbsUa9jHZpeYYODpY4WYN-_fOOJxdZ3TZ_n_ZE257U3p1rWKVDCcrYoueh8vK0aDJRhlILHGiUINFtQ_yABKgl1cy1lYXN0LTIwhAw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia" tvg-name="Gigavision",Gigavision ES
 https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno",Red Uno ES
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="Bolivia" tvg-name="Unitel Santa Cruz",Unitel SCZ ES
 https://vod2.cf.dmcdn.net/sec2(34Sanb7ewxGKlb-qN5A7K0KxE7_NEdiifGDVScCLwart2tjxjv8tH4gZhYEcBhh3mdQ7_X_RewvZQjoSPV2wrk5uFT8OI8oiXSHRDbxm2gn4I-B1pZRp1TbVhyrTNGAu4WVYeSWQwoxkN9t8bFlA-EUXAXO91Or_xXa8BLaBKT_iM9HlQHuHlmbuCnItUfoD)/cloud/043/839/573938340_mp4_h264_aac_hd_2.m3u8#cell=cf2
+#EXTINF:-1 tvg-logo="" group-title="Bolivia" tvg-name="RTP",RTP ES
+https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Pat-TV-en-vivo-Online-696x392.png" group-title="Bolivia" tvg-name="PAT",PAT ES
+https://www.redpat.tv/proxy/index.m3u8
+# Peru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Peru" tvg-name="Gigavision",Gigavision ES
+https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
 
