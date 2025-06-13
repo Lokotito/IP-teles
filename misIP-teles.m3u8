@@ -1,6 +1,6 @@
 #EXTM3U @Lokotito https://github.com/Lokotito/IP-teles
 # Bolivia
 #EXTINF:-1 tvg-name="Listas Bolivia" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", group-title="Bolivia", Bolivia
-https://lokotito.github.io/IP-teles/misIP-BOL-teles.m3u8
+https://lokotito.github.io/IP-teles/misIP-BOL-teles.m3u8?PlaylistM3UCL
 #
 #
