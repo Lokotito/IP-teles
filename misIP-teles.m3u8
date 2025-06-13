@@ -30,12 +30,15 @@ https://www.redpat.tv/proxylpz/index.m3u8
 https://w8.redpat.tv:8000/play/110/39688517.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1749771840871" group-title="Bolivia" tvg-name="TVU-LP",TVU-LP ES
 https://s1.tvdatta.com:3557/live/tvulive.m3u8
+#EXTINF:-1 tvg-logo="https://tvu.uap.edu.bo/app-assets/LOGO%20UAP%202013%20PEQUE%C3%91O.png" group-title="Bolivia" tvg-name="TVU-Pa",TVU-Pando ES
+https://tvu-online.uap.edu.bo/hls/stream.m3u8
 # Argentina
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",America TV ES
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 # Peru
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Peru" tvg-name="Gigavision",Gigavision ES
-https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OSK.1f6b466de2cc12700d5987873c8815a7?w=102&h=102&c=7&o=6&pid=SANGAM" group-title="Peru" tvg-name="America TV",America TV ES
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/1a44c6e4a0384af5b8285d9daf6e51c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/657fbe15e3ba9363bb07c6b4/203378d8-d257-4677-a1fb-05f1208291af/1.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=B0x2CMf3GBRq2d6pG4TcJJX7JfllCmaB&sid=F6Kg8D8rhk26Dg7heEDTj7QJPSLZFYk1&pid=B2z5PHVKjwNPl6i8PAqHu7JM2M3N38wo&pid_dvr=oQGEKvcmLoP6YIxFdzJGwdA0LTdmbD9d&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=mk4dOQlZogfuJe72I3QptK2ebVLmtmL1VS8qinNBbDafbiUbTFQjYCZhiR2vR9tV1rQ530MOs6H&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1749870289911&ot=a4sKnaj-kKcqCRRaEYgQTA&proto=https&pz=us
+
 
