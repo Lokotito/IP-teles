@@ -57,16 +57,8 @@ https://live.eu-north-1b.cf.dmcdn.net/sec2(iA5hEPhv3u6_GCbkXVP4btqUM1R66ku48D6B7
 https://
 #EXTINF:-1 tvg-id="647" tvg-name="Tlaxcala TV" tvg-logo="https://cdn.m3u.cl/logo/647_Tlaxcala_TV.png" group-title="Mexico", Tlaxcala TV | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png" group-title="Mexico", Transmedia TV Morelia | MX
-https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="683" tvg-name="TRC TV Campeche" tvg-logo="https://cdn.m3u.cl/logo/683_TRC_TV_Campeche.png" group-title="Mexico", TRC TV Campeche | MX
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="638" tvg-name="TV Lobo" tvg-logo="https://cdn.m3u.cl/logo/638_TV_Lobo.png" group-title="Mexico", TV Lobo | MX
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="655" tvg-name="TV4 Cultura" tvg-logo="https://cdn.m3u.cl/logo/655_TV4_Cultura.png" group-title="Mexico", TV4 Cultura | MX
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="654" tvg-name="TV4 Deportes" tvg-logo="https://cdn.m3u.cl/logo/654_TV4_Deportes.png" group-title="Mexico", TV4 Deportes | MX
-https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="656" tvg-name="TV4 Noticias" tvg-logo="https://cdn.m3u.cl/logo/656_TV4_Noticias.png" group-title="Mexico", TV4 Noticias | MX
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="651" tvg-name="TVP Culiacan" tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png" group-title="Mexico", TVP Culiacan | MX
@@ -81,8 +73,6 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_Noticias.png" group-title="Mexico", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1174" tvg-name="Canal 66 El Canal de las Noticias" tvg-logo="https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png" group-title="Mexico", Canal 66 El Canal de las Noticias | MX
-https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Mexico", Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Mexico", PRIDEtv Latam | CL
