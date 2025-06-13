@@ -25,10 +25,12 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(00Me1FqISO6x4Odio90d7vdJRluxEWBhc_j3
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(qG5NAXpKhW5A9zyJY1yj0xyFlVMj2OF3Q7QFiWjTAza8fGC72Am8rloi8bNHuxhlGLw9BllHD-GGuB4Oryq1jDE3oLbBWGj3-rdVOYT4hCl59fnhysCIFRQsYbJwD6zn)/cloud/3/x83s9hy/s/live-720@60.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-logo="" group-title="Bolivia" tvg-name="RTP",RTP ES
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Pat-TV-en-vivo-Online-696x392.png" group-title="Bolivia" tvg-name="PAT",PAT ES
-https://www.redpat.tv/proxy/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT La Paz",PAT LP ES
+https://w8.redpat.tv:8000/play/12/29647095.m3u8
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT Santa Cruz",PAT SCZ ES
+https://w8.redpat.tv:8000/play/110/39688517.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1749771840871" group-title="Bolivia" tvg-name="TVU-LP",TVU-LP ES
-s1.tvdatta.com:3557/live/tvulive.m3u8
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
 # Argentina
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",America TV ES
