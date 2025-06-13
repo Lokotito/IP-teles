@@ -20,6 +20,8 @@ https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno",Red Uno ES
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="Bolivia" tvg-name="Unitel Santa Cruz",Unitel SCZ ES
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(00Me1FqISO6x4Odio90d7vdJRluxEWBhc_j3EJTAWHUXDJuNtEN3eM_Ke0CymviqOnRtYyLnZECb2Ig7o8w6WTfJJCfGnZshJ98zBurVhC91_NR3h7be8nowVMNJpGCv)/cloud/3/x8eimg9/s/live-380.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-logo="https://imagens-cdn.canalrural.com.br/wp-content/uploads/Canal-Rural-Bolivia-1.jpg" group-title="Bolivia" tvg-name="Canal Rural Santa Cruz",Canal Rural SCZ ES
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(qG5NAXpKhW5A9zyJY1yj0xyFlVMj2OF3Q7QFiWjTAza8fGC72Am8rloi8bNHuxhlGLw9BllHD-GGuB4Oryq1jDE3oLbBWGj3-rdVOYT4hCl59fnhysCIFRQsYbJwD6zn)/cloud/3/x83s9hy/s/live-720@60.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-logo="" group-title="Bolivia" tvg-name="RTP",RTP ES
 https://rtp.noxun.net/hls/stream.m3u8
