@@ -1,36 +1,4 @@
 #EXTM3U @Lokotito https://github.com/Lokotito/IP-teles
 # Bolivia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia" tvg-name="ATB La Paz",ATB La Paz ES
-http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia" tvg-name="ATB Santa Cruz",Santa Cruz ES
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="Bolivision",Bolivision ES
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="Bolivia" tvg-name="Cadena A",Cadena A ES
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Bolivia" tvg-name="Cinerama Television",Cinerama Television ES
-https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia" tvg-name="F10 HD",F10 HD ES
-https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
-#EXTINF:-1 tvg-logo="https://tvmegavision.com/wp-content/uploads/2021/03/Megavision-Bolivia-en-vivo-Online-1024x576.png" group-title="Bolivia" tvg-name="Megavision",Megavision ES
-https://sae12.playlist.ttvnw.net/v1/playlist/Ct4GyfPl0G9uBVzLzmpJSkiemB2xTZiAFC1oB5mwGT24piJ0KfQlQCExfLT8DZQ5BcGEUTsElQVnA0xIWdyDc8ZYTRMoDGVumNnr-qnxdOEh3n_Ix0HA_zbuU9Fz8X8O7xpkSNepNpOV0y2cBzNOPAvMYJ7dkhXlmmaC3XwgQGdjEtx5poMNKSQHtLpi6NqZTYEEejJKqjsb7FKJOKiLjYfcpt0_ke6ql3Ef7rA9X6_A0giaDZf5y2TzEw7pqrc6bfJ3VA1RVnI99mPNTm_gQll6kqMa1NBeb5ap4DkUZwxq160IP7HtSqyYclfUCrq408enaUHCXOAaNGMCID_Hv8h2HkMhYh50Taa9iXx0GDQOuRtNgk0mowbDUG53WfWR0P5BEq6oWCI8jLwXOZPXqFC1V40aUdV3SOljm-rOKe74NOWS5Kuvlf1aCLYbx3bS8vdnLcWY1taIQX7FR61tOP7q42yMuVkUwGZOkKTDyQZ7Jd9LOasRcF02A45YPC8ydwEhV4ikDA5_nHEQU7TiSeRhvrhXftHdQ3ZSQQsPjtXBwANWEL_6TeX_KJhnnf2Iwa0n9e-o7U8ztPAbsn-BQRjr3yd0u7wFVoLKcYfJcL8pzUJs5ruCDmsEUyUT2Fv0vL1gDEaHsk06hKmc-cV_wf93OZkw-lJjbHIBCj2OGwrT8ocL_qYmxtLU5ALdu7UtJJvDGfRUEswUDwwtO_I1X3Py6yCr4bEaeVlNKu39jQfrZvG8eBlVVVjQ0QCH86idYDelqYnrn3Snh_Zc0dWDOImDXKV8rnHXupv0VK3In8leFITqrIuqhzFn7LFQERHzhQ8Mg8Mlo6mJ1VbmtD-VKvUFDaNVIZ06mMy90YxB66J7jb1i8EeNasx6ylt0h6U5aWyXFpTrTkVFGiq8yFWRLapYXpOTvFZR0xtF4qW6n0naXXFQsmP9ctF5Rq9_QZsfMwFKZm1R70jL9fYh6S1ccZ6A_gcQaSia6RKdUCuk-6yypKg5VNT2T6CisqLfYVKdUGkMvyqrz0k5-1KWVlZgcthVxmV9DiMWAi1hrqiQjtxmHy-nUVh5VcxhW41GgPgxeBNKEYWoUUp7pDddqW39m2CxDY2AGmn0gcZ3bxRLt-ceIcf3XRs_HV92w3EDlexY0hoMqel00gG9chYhGBKWIAEqCXVzLWVhc3QtMjC_DA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia" tvg-name="Gigavision",Gigavision ES
-https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno",Red Uno ES
-https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="Bolivia" tvg-name="Unitel Santa Cruz",Unitel SCZ ES
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(00Me1FqISO6x4Odio90d7vdJRluxEWBhc_j3EJTAWHUXDJuNtEN3eM_Ke0CymviqOnRtYyLnZECb2Ig7o8w6WTfJJCfGnZshJ98zBurVhC91_NR3h7be8nowVMNJpGCv)/cloud/3/x8eimg9/s/live-380.m3u8#cell=lcf2-eu-north-1a
-#EXTINF:-1 tvg-logo="https://imagens-cdn.canalrural.com.br/wp-content/uploads/Canal-Rural-Bolivia-1.jpg" group-title="Bolivia" tvg-name="Canal Rural Santa Cruz",Canal Rural SCZ ES
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(qG5NAXpKhW5A9zyJY1yj0xyFlVMj2OF3Q7QFiWjTAza8fGC72Am8rloi8bNHuxhlGLw9BllHD-GGuB4Oryq1jDE3oLbBWGj3-rdVOYT4hCl59fnhysCIFRQsYbJwD6zn)/cloud/3/x83s9hy/s/live-720@60.m3u8#cell=lcf2-eu-north-1b
-#EXTINF:-1 tvg-logo="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png" group-title="Bolivia" tvg-name="RTP",RTP ES
-https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT La Paz",PAT LP ES
-https://www.redpat.tv/proxylpz/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT Santa Cruz",PAT SCZ ES
-https://w8.redpat.tv:8000/play/110/39688517.m3u8
-#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1749771840871" group-title="Bolivia" tvg-name="TVU-LP",TVU-LP ES
+#EXTINF:-1 tvg-id="TVU-LP" tvg-name="Television Universitaria La Paz HD" tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1749771840871" group-title="Bolivia",TVU-LP BO
 https://s1.tvdatta.com:3557/live/tvulive.m3u8
-#EXTINF:-1 tvg-logo="https://tvu.uap.edu.bo/app-assets/LOGO%20UAP%202013%20PEQUE%C3%91O.png" group-title="Bolivia" tvg-name="TVU-Pa",TVU-Pando ES
-https://tvu-online.uap.edu.bo/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.uajms.edu.bo/canal9tvu/wp-content/uploads/sites/70/2021/11/LOGOTVU.png" group-title="Bolivia" tvg-name="TVU-Ta",TVU-Tarija ES
-https://
