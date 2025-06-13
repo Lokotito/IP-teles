@@ -1,5 +1,4 @@
 #EXTM3U @Lokotito https://github.com/Lokotito/IP-teles
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
 # Bolivia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Bolivia" tvg-name="ATB La Paz",ATB La Paz ES
 http://186.121.206.197/live/daniel/index.m3u8
@@ -13,8 +12,8 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia" tvg-name="F10 HD",F10 HD ES
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IAQXCak.png" group-title="Bolivia" tvg-name="Megavision",Megavision ES
-https://usher.ttvnw.net/api/channel/hls/megavisionbo.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiN2IyMzU4OTItMDFhOS00YmRmLWFmNGMtYTU2ZDNlMTQ0OGY2In0%3D&allow_source=true&browser_family=microsoft%20edge&browser_version=137.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&os_name=Windows&os_version=NT%2010.0&p=4022652&parent_domains=twitchplayer&platform=web&play_session_id=ffd379409b096fe6c835e8aee9ff782a&player_backend=mediaplayer&player_version=1.42.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=e2d4b7fefddc5285dfef18dd5677ca874a414b9c&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22megavisionbo%22%2C%22channel_id%22%3A793553002%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c6862cd7fdaafadb%22%2C%22expires%22%3A1749779132%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22twitch_everywhere%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.115.138.224%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-logo="https://tvmegavision.com/wp-content/uploads/2021/03/Megavision-Bolivia-en-vivo-Online-1024x576.png" group-title="Bolivia" tvg-name="Megavision",Megavision ES
+https://sae12.playlist.ttvnw.net/v1/playlist/Ct4GyfPl0G9uBVzLzmpJSkiemB2xTZiAFC1oB5mwGT24piJ0KfQlQCExfLT8DZQ5BcGEUTsElQVnA0xIWdyDc8ZYTRMoDGVumNnr-qnxdOEh3n_Ix0HA_zbuU9Fz8X8O7xpkSNepNpOV0y2cBzNOPAvMYJ7dkhXlmmaC3XwgQGdjEtx5poMNKSQHtLpi6NqZTYEEejJKqjsb7FKJOKiLjYfcpt0_ke6ql3Ef7rA9X6_A0giaDZf5y2TzEw7pqrc6bfJ3VA1RVnI99mPNTm_gQll6kqMa1NBeb5ap4DkUZwxq160IP7HtSqyYclfUCrq408enaUHCXOAaNGMCID_Hv8h2HkMhYh50Taa9iXx0GDQOuRtNgk0mowbDUG53WfWR0P5BEq6oWCI8jLwXOZPXqFC1V40aUdV3SOljm-rOKe74NOWS5Kuvlf1aCLYbx3bS8vdnLcWY1taIQX7FR61tOP7q42yMuVkUwGZOkKTDyQZ7Jd9LOasRcF02A45YPC8ydwEhV4ikDA5_nHEQU7TiSeRhvrhXftHdQ3ZSQQsPjtXBwANWEL_6TeX_KJhnnf2Iwa0n9e-o7U8ztPAbsn-BQRjr3yd0u7wFVoLKcYfJcL8pzUJs5ruCDmsEUyUT2Fv0vL1gDEaHsk06hKmc-cV_wf93OZkw-lJjbHIBCj2OGwrT8ocL_qYmxtLU5ALdu7UtJJvDGfRUEswUDwwtO_I1X3Py6yCr4bEaeVlNKu39jQfrZvG8eBlVVVjQ0QCH86idYDelqYnrn3Snh_Zc0dWDOImDXKV8rnHXupv0VK3In8leFITqrIuqhzFn7LFQERHzhQ8Mg8Mlo6mJ1VbmtD-VKvUFDaNVIZ06mMy90YxB66J7jb1i8EeNasx6ylt0h6U5aWyXFpTrTkVFGiq8yFWRLapYXpOTvFZR0xtF4qW6n0naXXFQsmP9ctF5Rq9_QZsfMwFKZm1R70jL9fYh6S1ccZ6A_gcQaSia6RKdUCuk-6yypKg5VNT2T6CisqLfYVKdUGkMvyqrz0k5-1KWVlZgcthVxmV9DiMWAi1hrqiQjtxmHy-nUVh5VcxhW41GgPgxeBNKEYWoUUp7pDddqW39m2CxDY2AGmn0gcZ3bxRLt-ceIcf3XRs_HV92w3EDlexY0hoMqel00gG9chYhGBKWIAEqCXVzLWVhc3QtMjC_DA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia" tvg-name="Gigavision",Gigavision ES
 https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno",Red Uno ES
@@ -23,7 +22,7 @@ https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(00Me1FqISO6x4Odio90d7vdJRluxEWBhc_j3EJTAWHUXDJuNtEN3eM_Ke0CymviqOnRtYyLnZECb2Ig7o8w6WTfJJCfGnZshJ98zBurVhC91_NR3h7be8nowVMNJpGCv)/cloud/3/x8eimg9/s/live-380.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-logo="https://imagens-cdn.canalrural.com.br/wp-content/uploads/Canal-Rural-Bolivia-1.jpg" group-title="Bolivia" tvg-name="Canal Rural Santa Cruz",Canal Rural SCZ ES
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(qG5NAXpKhW5A9zyJY1yj0xyFlVMj2OF3Q7QFiWjTAza8fGC72Am8rloi8bNHuxhlGLw9BllHD-GGuB4Oryq1jDE3oLbBWGj3-rdVOYT4hCl59fnhysCIFRQsYbJwD6zn)/cloud/3/x83s9hy/s/live-720@60.m3u8#cell=lcf2-eu-north-1b
-#EXTINF:-1 tvg-logo="" group-title="Bolivia" tvg-name="RTP",RTP ES
+#EXTINF:-1 tvg-logo="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png" group-title="Bolivia" tvg-name="RTP",RTP ES
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT La Paz",PAT LP ES
 https://w8.redpat.tv:8000/play/12/29647095.m3u8
@@ -32,6 +31,7 @@ https://w8.redpat.tv:8000/play/110/39688517.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1749771840871" group-title="Bolivia" tvg-name="TVU-LP",TVU-LP ES
 https://s1.tvdatta.com:3557/live/tvulive.m3u8
 # Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",America TV ES
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
