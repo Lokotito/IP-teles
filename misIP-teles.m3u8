@@ -25,7 +25,7 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(qG5NAXpKhW5A9zyJY1yj0xyFlVMj2OF3Q7QF
 #EXTINF:-1 tvg-logo="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png" group-title="Bolivia" tvg-name="RTP",RTP ES
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT La Paz",PAT LP ES
-https://w8.redpat.tv:8000/play/12/29647095.m3u8
+https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT Santa Cruz",PAT SCZ ES
 https://w8.redpat.tv:8000/play/110/39688517.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1749771840871" group-title="Bolivia" tvg-name="TVU-LP",TVU-LP ES
