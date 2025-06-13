@@ -32,13 +32,60 @@ https://w8.redpat.tv:8000/play/110/39688517.m3u8
 https://s1.tvdatta.com:3557/live/tvulive.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.uap.edu.bo/app-assets/LOGO%20UAP%202013%20PEQUE%C3%91O.png" group-title="Bolivia" tvg-name="TVU-Pa",TVU-Pando ES
 https://tvu-online.uap.edu.bo/hls/stream.m3u8
-# Argentina
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina" tvg-name="13Max Television",13MaxTelevision ES
+#EXTINF:-1 tvg-logo="https://www.uajms.edu.bo/canal9tvu/wp-content/uploads/sites/70/2021/11/LOGOTVU.png" group-title="Bolivia" tvg-name="TVU-Ta",TVU-Tarija ES
+https://
+## Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina" tvg-name="13Max Television",13 MaxTelevision ES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" tvg-name="America TV",America TV ES
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="Argentina" tvg-name="El Nueve",El Nueve ES
+https://sae13.playlist.ttvnw.net/v1/playlist/CuEGk34mg90q2sJ66StZghQGSwlitSUwAw5vioZD0BBMZKj2sfgukuSGFevrz8hycbXxMAdlyXmrJX8_bG8F3_G_BU2PnXirUoVkqvsSonmdCYv8hvr9b60uQhYVz1V-de2mx20cCctTSNpkuP0XHSCg9JyiTmpwyWw__07015SS34iAVQcm5jZsumJ0GWwc5mK2fc23IYh8TxJLmplkOt6YJmHSnq4D9kx2ROnZtZm9ZmXRxeTTzy29lyl7Gl7vgFf4I3bSG3MRliJAhtgNpWmcXXq-XdjiGhGjfL6_jfyEdmGH481zvvwSaizQQ2XP4N6_ICJTm2OOei1h0TsLL9ksJXocud0gE5frBw0-ipxD1IJ8PMt3h1cbTqsMZV0VXwu2-Moz02SViWuQ0jX9ZpvH9HiuCyrwCIONwxGDFH3UJb0Wm-xSF8w0dC2C1mcP3fqPZ2F74BkGTSU_enY_ROlSvqGf0vnhhhjTG3Wi6uffNmfZhhJpFUKk-qkEBTF97OWRpm-4Mp1Uy1zUYMN5S_cfaqxMcrd1OZrHUEvF4L_0J5D9sLtxz-x5v-CMxCdGJDr3JZvvYe2P3qF_INZWR2lbrvoU0rSHdEpl3wsydfOpqBru-USzUdwZ9FDhKoHKWDKti4QP9G7GLcuO6QYGcelzlWxbqO8tH0ponSnNMkPFSflGPs2dN5wVqNpvXAEpMuCFd4Mzk3AUhaG7oZwMR3FC_FR6oM_aYMl0AdjkAP3RkK7MtLwAbOy4i7K26JDRhFlY0E9Uu2Kn_ncd9UFtEcITRRL8VH9VgFhwJHztr3w0E1N_yQzSBrnTiYsxbhf7kCEZ79UFFeWZTCR_e54IH9ReC4kh8x-RMjUye18lmBVkn1BRJ8oCgQ7vu7wHakjbtryKc6rrczRUcf9rW4APDO5UU1mUWELoZK1bwotCApQhAVwTj3tuSBS-au1sYfXQRPrfg03nLNsQSK0vSXVV8FizFxkUQl_x8jPON09QMU7wPxsqi4zE-olKdNQ3oMlbiEQcBkm3wZTgnbpKexz8sgd1wJXzClrSdU_2I4U-6eBjUJWXoOvbAH-Mw5YnQzqcrdM72C-TpY9EHuF-UEVpDutDxWYtPiOL9Zl-57GULiZmQ6A4v-BPG0yR1VbHpgVivUX1uxoMeZD8rpq4AOqPgagFIAEqCXVzLWVhc3QtMjC_DA.m3u8
+#
 # Peru
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OSK.1f6b466de2cc12700d5987873c8815a7?w=102&h=102&c=7&o=6&pid=SANGAM" group-title="Peru" tvg-name="America TV",America TV ES
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/1a44c6e4a0384af5b8285d9daf6e51c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/657fbe15e3ba9363bb07c6b4/203378d8-d257-4677-a1fb-05f1208291af/1.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=B0x2CMf3GBRq2d6pG4TcJJX7JfllCmaB&sid=F6Kg8D8rhk26Dg7heEDTj7QJPSLZFYk1&pid=B2z5PHVKjwNPl6i8PAqHu7JM2M3N38wo&pid_dvr=oQGEKvcmLoP6YIxFdzJGwdA0LTdmbD9d&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=mk4dOQlZogfuJe72I3QptK2ebVLmtmL1VS8qinNBbDafbiUbTFQjYCZhiR2vR9tV1rQ530MOs6H&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1749870289911&ot=a4sKnaj-kKcqCRRaEYgQTA&proto=https&pz=us
-
-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OSK.q7agI1gKOBYt6Ey48mmAwP5TpTLEu9TRGS6LsSNMVQE" group-title="Peru" tvg-name="Latina",Latina ES
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b21921423718684b98b7c0769&sid=ba5t1l1xb21884878605684b98b94f54d&ndvc=0
+#
+# Republica Dominicana
+#EXTINF:-1 tvg-logo="https://colorvision.com.do/wp-content/uploads/colorvision-canal-9-republica-dominicana-la-casa-del-talento-dominicano.png" group-title="Dominicana" tvg-name="El Nueve",El Nueve ES
+https://live.eu-north-1b.cf.dmcdn.net/sec2(iA5hEPhv3u6_GCbkXVP4btqUM1R66ku48D6B7VS8Dme65ZJF5p-Xihl_f8ggB1blM-9FKKVCQ72YesqWvfh9bZu76SHvtbLdFM-CpkDsVctm6XIjJShDFVSaoVj7UyDv)/dm/3/x7gy059/d/live-480.m3u8#cell=lcf-eu-north-1b
+#
+# Mexico
+#EXTINF:-1 tvg-logo="http://tv-azteca-brightspot.s3.amazonaws.com/84/6c/cde3ad04432cbccd772588a79542/1.%20LogoTVASitioOK.png" group-title="Mexico" tvg-name="Tv Azteca",Tv Azteca ES
+https://
+#EXTINF:-1 tvg-id="647" tvg-name="Tlaxcala TV" tvg-logo="https://cdn.m3u.cl/logo/647_Tlaxcala_TV.png" group-title="Mexico", Tlaxcala TV | MX
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png" group-title="Mexico", Transmedia TV Morelia | MX
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="683" tvg-name="TRC TV Campeche" tvg-logo="https://cdn.m3u.cl/logo/683_TRC_TV_Campeche.png" group-title="Mexico", TRC TV Campeche | MX
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="638" tvg-name="TV Lobo" tvg-logo="https://cdn.m3u.cl/logo/638_TV_Lobo.png" group-title="Mexico", TV Lobo | MX
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="655" tvg-name="TV4 Cultura" tvg-logo="https://cdn.m3u.cl/logo/655_TV4_Cultura.png" group-title="Mexico", TV4 Cultura | MX
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="654" tvg-name="TV4 Deportes" tvg-logo="https://cdn.m3u.cl/logo/654_TV4_Deportes.png" group-title="Mexico", TV4 Deportes | MX
+https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="656" tvg-name="TV4 Noticias" tvg-logo="https://cdn.m3u.cl/logo/656_TV4_Noticias.png" group-title="Mexico", TV4 Noticias | MX
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="651" tvg-name="TVP Culiacan" tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png" group-title="Mexico", TVP Culiacan | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="648" tvg-name="TVP Los Mochis" tvg-logo="https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png" group-title="Mexico", TVP Los Mochis | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="649" tvg-name="TVP Mazatlan" tvg-logo="https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png" group-title="Mexico", TVP Mazatlan | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://cdn.m3u.cl/logo/650_TVP_Obregon.png" group-title="Mexico", TVP Obregon | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png" group-title="Mexico", UMTV | MX
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_Noticias.png" group-title="Mexico", AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1174" tvg-name="Canal 66 El Canal de las Noticias" tvg-logo="https://cdn.m3u.cl/logo/1174_Canal_66_El_Canal_de_las_Noticias.png" group-title="Mexico", Canal 66 El Canal de las Noticias | MX
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Mexico", Alcance TV | MX
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Mexico", PRIDEtv Latam | CL
+https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL
+#
+#
