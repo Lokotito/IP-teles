@@ -1,6 +1,6 @@
 #EXTM3U @Lokotito https://github.com/Lokotito/IP-teles
 # Bolivia
-#EXTINF:-1 Bolivia
+#EXT-X-STREAM-INF:PROGRAM-ID=1
 https://lokotito.github.io/IP-teles/misIP-BOL-teles.m3u8?PlaylistM3UCL
 #
 #
