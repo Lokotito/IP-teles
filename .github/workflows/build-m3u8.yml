@@ -1,9 +1,9 @@
-name: Generate master M3U
+name: Validate and Build IPTV
 
 on:
   push:
     paths:
-      - '*.m3u8'
+      - 'pais/*.m3u8'
   workflow_dispatch:
 
 jobs:
@@ -14,23 +14,21 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate master.m3u8
-        run: |
-          echo "#EXTM3U" > master.m3u8
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-          for file in *.m3u8; do
-            if [ "$file" != "master.m3u8" ]; then
-              echo "" >> master.m3u8
-              echo "# ===== $file =====" >> master.m3u8
-          
-              tail -n +2 "$file" >> master.m3u8
-            fi
-          done
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Commit changes
+      - name: Run validator script
+        run: python python/check_streams.py
+
+      - name: Commit master.m3u8
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add master.m3u8
-          git commit -m "Auto update master.m3u8" || echo "No changes"
+          git commit -m "Update validated master.m3u8" || echo "No changes"
           git push
