@@ -47,7 +47,7 @@ import glob
 with open("master.m3u8", "w", encoding="utf-8") as master:
     master.write("#EXTM3U\n")
 
-for file in glob.glob("*.m3u8"):
+for file in glob.glob("pais/*.m3u8"):
     if file == "master.m3u8":
         continue
 
