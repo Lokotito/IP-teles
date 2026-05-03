@@ -6,7 +6,7 @@ https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="Bolivision",Bolivision ES
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="Bolivision SCZ",Bolivision ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="Bolivision SCZ",Bolivision-SCZ ES
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_4276517416086298479_hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="Bolivision HD",Bolivision ES
 https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
@@ -14,17 +14,17 @@ https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Bolivia" tvg-name="F10 HD",F10 HD ES
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno SCZ",Red Uno ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno SCZ",RedUno-SCZ ES
 https://live.eu-north-1b.cf.dmcdn.net/sec2(P0wmWvSpKS0R8rtCch-q9d6_aeAn1zJTY_sYFkHHWVEWfPfFhPV9lN_4YBBIjuaFd-5E95IzXWA7Ay-Jk8VDbfYW3YHO4hLMdZUModTkk8BD_whds3rswupB5SyddqfE)/dm/3/x9n2qyk/d/live-720.m3u8#cell=lcf-eu-north-1b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno CBBA",Red Uno ES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia" tvg-name="Red Uno CBBA",RedUno-SCZ ES
 https://live.eu-north-1a.cf.dmcdn.net/sec2(IWe9uE-Nl2X_wToBP7p9cjdC_seXREQH83ss7A3Q0Tkpik_2G_juw1XwFXWW3VDoDbjfb_GDO88buu3-CSv5uQv7HTSe1qAKbyGutRWpRh-Pj5WIhIdBCTkhX2Ew2Oja)/dm/3/xa0qka8/d/live-720.m3u8#cell=lcf-eu-north-1a
-#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="Bolivia" tvg-name="Unitel SCZ",Unitel ES
+#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="Bolivia" tvg-name="Unitel SCZ",Unitel-SCZ ES
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8?uid=XxFCnSThC5kE9tFgz3wxXG6fcF0BVSDI&sid=54p1NBXDIhvjvWm0e8OpvSO6FVgyb4V6&pid=GITscaDkRf8BuUFxsifFqqkJeEVU1Mjz&pid_dvr=gmVcts86yqYQDoYC0QjDrLInZDo3Mh86&an=screen&at=web-app&av=v7.0.13&ref=https%3A%2F%2Funitel.bo%2F&res=806x453&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%22692b7e7ac84183fcf9e3462d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22GITscaDkRf8BuUFxsifFqqkJeEVU1Mjz%22%2Csu
-#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="Bolivia" tvg-name="Unitel CBBA",Unitel ES
+#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="Bolivia" tvg-name="Unitel CBBA",Unitel-CBBZ ES
 https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8?uid=XxFCnSThC5kE9tFgz3wxXG6fcF0BVSDI&sid=54p1N
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="Bolivia" tvg-name="RTP",RTP ES
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT La Paz",PAT ES
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/static/logo-4663a3d92d6f9919e369bc3eee01e7a3.png" group-title="Bolivia" tvg-name="PAT La Paz",PAT-LP ES
 https://www.redpat.tv:8000/play/12/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1749771840871" group-title="Bolivia" tvg-name="TVU-LP",TVU-LP ES
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
