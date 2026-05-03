@@ -6,6 +6,9 @@ on:
       - 'pais/*.m3u8'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
