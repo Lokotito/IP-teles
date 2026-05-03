@@ -18,14 +18,14 @@ jobs:
         run: |
           echo "#EXTM3U" > master.m3u8
 
-for file in *.m3u8; do
-  if [ "$file" != "master.m3u8" ]; then
-    echo "" >> master.m3u8
-    echo "# ===== $file =====" >> master.m3u8
-
-    tail -n +2 "$file" >> master.m3u8
-  fi
-done
+          for file in *.m3u8; do
+            if [ "$file" != "master.m3u8" ]; then
+              echo "" >> master.m3u8
+              echo "# ===== $file =====" >> master.m3u8
+          
+              tail -n +2 "$file" >> master.m3u8
+            fi
+          done
 
       - name: Commit changes
         run: |
