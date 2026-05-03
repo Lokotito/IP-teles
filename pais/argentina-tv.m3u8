@@ -1,1 +1,6 @@
+#EXTM3U @Lokotito url-tvg=https://github.com/Lokotito/IP-teles
+# PERU
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
