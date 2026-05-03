@@ -1,7 +1,7 @@
 
 #EXTM3U @Lokotito https://github.com/Lokotito/IP-teles
 #EXTM3U url-tvg="https://lokotito.github.io/IP-teles/misIP-teles.m3u8"
-# Bolivia !!!
+# Bolivia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="GIGAVISION",GIGAVISION ES
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="CTV",CTV ES
