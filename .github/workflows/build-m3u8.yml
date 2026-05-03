@@ -1,0 +1,35 @@
+name: Generate master M3U
+
+on:
+  push:
+    paths:
+      - '*.m3u8'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate master.m3u8
+        run: |
+          echo "#EXTM3U" > master.m3u8
+
+          for file in *.m3u8; do
+            if [ "$file" != "master.m3u8" ]; then
+              echo "" >> master.m3u8
+              echo "# ===== $file =====" >> master.m3u8
+              cat "$file" >> master.m3u8
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add master.m3u8
+          git commit -m "Auto update master.m3u8" || echo "No changes"
+          git push
