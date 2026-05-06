@@ -24,7 +24,7 @@ jobs:
         run: pip install yt-dlp
 
       - name: Run extractor
-        run: python python/extract.py
+        run: python python/extractor.py
 
       - name: Commit results
         run: |
