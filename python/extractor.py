@@ -1,7 +1,7 @@
 import subprocess
 from datetime import datetime
 
-input_file = "canales.txt"
+input_file = "misc/check_url.txt"
 output_file = f"revision_{datetime.now().strftime('%Y%m%d')}.txt"
 
 with open(input_file) as f:
