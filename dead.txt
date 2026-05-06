@@ -1,12 +1,9 @@
-https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8?uid=XxFCnSThC5kE9tFgz3wxXG6fcF0BVSDI&sid=54p1NBXDIhvjvWm0e8OpvSO6FVgyb4V6&pid=GITscaDkRf8BuUFxsifFqqkJeEVU1Mjz&pid_dvr=gmVcts86yqYQDoYC0QjDrLInZDo3Mh86&an=screen&at=web-app&av=v7.0.13&ref=https%3A%2F%2Funitel.bo%2F&res=806x453&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%22692b7e7ac84183fcf9e3462d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22GITscaDkRf8BuUFxsifFqqkJeEVU1Mjz%22%2Csu
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8?uid=XxFCnSThC5kE9tFgz3wxXG6fcF0BVSDI&sid=54p1N
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(CgfQQGXacZ6axNyAJhHmd6yj3tQ8fc7RTbb5x7UI2Kj66qx4KRJWOpFJmx38LWnrU9DtFYM7Y9NmeSWoaN7uJpF0Z59qzAWxMTNB1N8U3UFdBX3NeAbcLExGmtu758zI)/cloud/3/x9s3ad6/s/live-720.m3u8#cell=lcf2-eu-north-1a
 https://live.eu-north-1b.cf.dmcdn.net/sec2(P0wmWvSpKS0R8rtCch-q9d6_aeAn1zJTY_sYFkHHWVEWfPfFhPV9lN_4YBBIjuaFd-5E95IzXWA7Ay-Jk8VDbfYW3YHO4hLMdZUModTkk8BD_whds3rswupB5SyddqfE)/dm/3/x9n2qyk/d/live-720.m3u8#cell=lcf-eu-north-1b
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_15609871089997455276_hls.m3u8
 https://live.eu-north-1a.cf.dmcdn.net/sec2(IWe9uE-Nl2X_wToBP7p9cjdC_seXREQH83ss7A3Q0Tkpik_2G_juw1XwFXWW3VDoDbjfb_GDO88buu3-CSv5uQv7HTSe1qAKbyGutRWpRh-Pj5WIhIdBCTkhX2Ew2Oja)/dm/3/xa0qka8/d/live-720.m3u8#cell=lcf-eu-north-1a
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(CgfQQGXacZ6axNyAJhHmd6yj3tQ8fc7RTbb5x7UI2Kj66qx4KRJWOpFJmx38LWnrU9DtFYM7Y9NmeSWoaN7uJpF0Z59qzAWxMTNB1N8U3UFdBX3NeAbcLExGmtu758zI)/cloud/3/x9s3ad6/s/live-720.m3u8#cell=lcf2-eu-north-1a
-https://www.redpat.tv:8000/play/12/index.m3u8
