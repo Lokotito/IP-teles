@@ -77,7 +77,7 @@ def main():
             f.write(url + "\n")
 
     # Guardar caídos
-    with open("dead.txt", "w", encoding="utf-8") as f:
+    with open("misc/dead", "w", encoding="utf-8") as f:
         for url in dead:
             f.write(url + "\n")
 
@@ -85,7 +85,7 @@ def main():
     print(f"✔ Activos: {len(working)}")
     print(f"✖ Caídos: {len(dead)}")
     print("📄 Generado: master.m3u8")
-    print("📄 Generado: dead.txt")
+    print("📄 Generado: dead")
     print("==============================\n")
 
 if __name__ == "__main__":
