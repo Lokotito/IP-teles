@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add revision_*.txt
+          git add misc/revision_*.txt
           git commit -m "Update stream extraction" || echo "No changes"
           git push
