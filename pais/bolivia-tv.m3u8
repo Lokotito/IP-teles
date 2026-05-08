@@ -4,7 +4,7 @@
 # Bolivia !
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092024/gggg.png" group-title="Bolivia" tvg-name="GIGAVISION",GIGAVISION ES
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="CTV",CTV ES
+#EXTINF:-1 tvg-logo="https://ctvbolivia.com/wp-content/uploads/2025/09/logo_CTV.png" group-title="Bolivia" tvg-name="CTV",CTV ES
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia" tvg-name="Bolivision",Bolivision ES
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
