@@ -149,7 +149,7 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="Chile",Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PRIDEtvLATAM.cl@HD" tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Chile;Lifestyle;Music",PRIDEtv LATAM (720p)
+#EXTINF:-1 tvg-id="PRIDEtvLATAM.cl@HD" tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Chile",PRIDEtv LATAM (720p)
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="PuconTV.cl" tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile",Pucón TV (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
@@ -228,7 +228,7 @@ https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUCT.cl" tvg-logo="https://i.imgur.com/tpI0WQH.png" group-title="Chile",TV UCT (1080p)
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlus2.cl" tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png" group-title="Chile;Entertainment",TV+ 2
+#EXTINF:-1 tvg-id="TVPlus2.cl" tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png" group-title="Chile",TV+ 2
 https://panel.miplay.cl:8082/tvmas2/index.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Chile",TVN3 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -270,5 +270,5 @@ https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Chile",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Undefined",VTV Valle de Aconcagua (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Chile",VTV Valle de Aconcagua (720p) [Not 24/7]
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
