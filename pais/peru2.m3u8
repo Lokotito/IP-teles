@@ -1,4 +1,5 @@
 #EXTM3U
+#PAIS_Peru
 #EXTINF:-1 tvg-id="AntaresTelevision.pe@SD",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSUR.pe@SD",Antena SUR (720p)
