@@ -1,4 +1,5 @@
 #EXTM3U
+#PAIS_Mexico
 #EXTINF:-1 tvg-id="8NTV.mx@SD",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="15TV.mx@SD",15TV (720p) [Not 24/7]
