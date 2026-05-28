@@ -1,12 +1,12 @@
 #EXTM3U
 #PAIS_Bolivia
-#EXTINF:-1 tvg-id="CadenaA.bo@SD",Cadena A (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/cropped-LogoBaseA0300-e1646889594328-192x192.png" tvg-id="CadenaA.bo@SD",Cadena A (720p) [Not 24/7]
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo@SD",CEACOM TV [Not 24/7]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="FTV.bo@SD",FTV (720p)
 https://master.tucableip.com/ftvhd/index.m3u8
-#EXTINF:-1 tvg-id="PalenqueTV.bo@SD",Palenque TV
+#EXTINF:-1 tvg-logo="https://redpalenque.com/wp-content/uploads/2020/11/logo272px.png" tvg-id="PalenqueTV.bo@SD", Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD",Red Uno Santa Cruz
 https://master.tucableip.com/muxredunosc/index.m3u8
