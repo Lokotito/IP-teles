@@ -1,7 +1,4 @@
 # 📺 Lokotito IP-Teles
-
-  <em>Lista de reproducción para Kodi</em>
-
 ---
 
 **Versión actual:** `1.261012`
