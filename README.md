@@ -1,8 +1,8 @@
 Lokotito IP-Teles
-# Version Actual: 1.260403
+# Version Actual: 1.261012
 Instrucciones:
 
-
+Manifiesto:
 <p align="left">
   <ul>
     <li>Kodi</li>
@@ -11,4 +11,3 @@ Instrucciones:
                                        !!Ahora puedes ver TV en linea!!
   </ul>
 </p>
-## Enjoy!
