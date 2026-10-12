@@ -1,4 +1,4 @@
-# 📺 Lokotito IP-Teles
+<p align="center"># <strong>📺 Lokotito IP-Teles</p></strong>strong>
 <p align="right">
   <em>Versión actual: 1.261012</em>
 </p>
@@ -19,5 +19,5 @@ O descarga la lista desde este enlace: <a href="master.m3u8">TV-LIST</a>
 
 ---
 
-## <strong>▶ ¡Ahora puedes ver TV en línea!</strong>
+## ▶ ¡Ahora puedes ver TV en línea!
 
