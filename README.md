@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Televisión en línea, sencilla y accesible</strong>
-  <br>
   <em>Lista de reproducción para Kodi</em>
 </p>
 
@@ -17,6 +16,7 @@ Utiliza la siguiente dirección para acceder a la lista de canales:
 <pre><code>https://lokotito.github.io/IP-teles/master.m3u8</code></pre>
 O descarga la lista desde este enlace:
 <li>URL: <a href="master.m3u8">TV-LIST</a>.</li>
+
 ## 📡 Cómo utilizar
 
 1. Abre **Kodi**.
