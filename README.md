@@ -1,4 +1,4 @@
-# 📡 Lokotito IP-Teles 📡
+# 📡 IP-Teles 📡
 <p align="right">
   <em>Versión actual: 1.261012</em>
 </p>
