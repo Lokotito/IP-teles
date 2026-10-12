@@ -25,4 +25,3 @@ Utiliza la siguiente dirección para acceder a la lista de canales:
 ---
 
 ## 👌🏽 ¡Ahora puedes ver TV en línea!
-
