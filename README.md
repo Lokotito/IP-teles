@@ -1,4 +1,4 @@
-<p align="center"># <strong>📺 Lokotito IP-Teles</p></strong>strong>
+<p align="center"># <strong>📺 Lokotito IP-Teles</strong></p>
 <p align="right">
   <em>Versión actual: 1.261012</em>
 </p>
