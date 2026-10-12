@@ -1,7 +1,5 @@
 # 📺 Lokotito IP-Teles
 
-  <strong>Televisión en línea, sencilla y accesible</strong>
-  <br>
   <em>Lista de reproducción para Kodi</em>
 
 ---
