@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Televisión en línea, sencilla y accesible</strong>
-  <b>
+  <br>
   <em>Lista de reproducción para Kodi</em>
 </p>
 
