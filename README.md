@@ -1,7 +1,8 @@
 # 📺 Lokotito IP-Teles
 <p align="right">
-  <em>**Versión actual:** `1.261012`</em>
+  <em>Versión actual: 1.261012</em>
 </p>
+
 ## 🔗 URL del manifiesto
 
 Utiliza la siguiente dirección para acceder a la lista de canales:
