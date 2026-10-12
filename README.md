@@ -3,6 +3,8 @@ Lokotito IP-Teles
 Instrucciones:
 
 Manifiesto:
+URL= https://lokotito.github.io/IP-teles/master.m3u8
+
 <p align="left">
   <ul>
     <li>Kodi</li>
