@@ -1,6 +1,5 @@
 # 📺 Lokotito IP-Teles
 ---
-
 **Versión actual:** `1.261012`
 
 ## 🔗 URL del manifiesto
