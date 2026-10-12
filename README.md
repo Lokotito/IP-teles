@@ -1,15 +1,34 @@
-Lokotito IP-Teles
-# Version Actual: 1.261012
-Instrucciones:
+# 📺 Lokotito IP-Teles
 
-Manifiesto:
-<ul>URL= https://lokotito.github.io/IP-teles/master.m3u8</ul>
+<p align="center">
+  <strong>Televisión en línea, sencilla y accesible</strong>
+  <br>
+  <em>Lista de reproducción para Kodi</em>
+</p>
 
-<p align="left">
-  <ul>
-    <li>Kodi</li>
-    <li>URL: <a href="master.m3u8">TV-LIST</a>.</li>
-    
-                                       !!Ahora puedes ver TV en linea!!
-  </ul>
+---
+
+**Versión actual:** `1.261012`
+
+## 🔗 URL del manifiesto
+
+Utiliza la siguiente dirección para acceder a la lista de canales:
+
+<pre><code>https://lokotito.github.io/IP-teles/master.m3u8</code></pre>
+
+## 📡 Cómo utilizar
+
+1. Abre **Kodi**.
+2. Configura el complemento (PVR client) compatible con listas M3U.
+3. Copia la dirección del manifiesto indicada arriba.
+4. ¡Disfruta de la televisión en línea!
+
+---
+
+<p align="center">
+  <strong>▶ ¡Ahora puedes ver TV en línea!</strong>
+</p>
+
+<p align="center">
+  <sub>Lokotito IP-Teles · Proyecto comunitario</sub>
 </p>
