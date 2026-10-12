@@ -18,10 +18,10 @@ O descarga la lista desde este enlace: <a href="master.m3u8">TV-LIST</a>
 
 ---
 
-<p align="center">
+<p align="lef">
   <strong>▶ ¡Ahora puedes ver TV en línea!</strong>
 </p>
 
-<p align="left">
+<p align="center">
   <sub>Lokotito IP-Teles · Proyecto comunitario</sub>
 </p>
